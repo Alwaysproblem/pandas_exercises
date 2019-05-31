@@ -1,3 +1,14 @@
 {
-    "python.pythonPath": "C:\\Users\\Jarvis\\AppData\\Local\\Programs\\Python\\Python36\\python.exe"
+    "python.pythonPath": "C:\\Users\\lemon\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
+    "python.dataScience.jupyterServerURI": "local",
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./01_Getting_&_Knowing_Your_Data",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pyTestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.unittestEnabled": true
 }
